@@ -1,0 +1,30 @@
+_repo: The-Olden-Time-Series-Vol.-5--Some-Strange-and-Curious-PunishmentsGleanings-Chiefly-from-Old-__16419
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16419-h/images/2cover.jpg
+creator:
+  author:
+    agent_name: Brooks, Henry M. (Henry Mason)
+    alias: Brooks, Henry Mason
+    birthdate: 1822
+    deathdate: 1898
+    gutenberg_agent_id: '6693'
+    url: http://www.gutenberg.org/2009/agents/6693
+description: ''
+gutenberg_issued: '2005-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Punishment'
+- !lcsh 'New England -- Social life and customs'
+title: 'The Olden Time Series, Vol. 5: Some Strange and Curious Punishments
+
+  Gleanings Chiefly from Old Newspapers of Boston and Salem, Massachusetts'
+url: http://www.gutenberg.org/ebooks/16419
